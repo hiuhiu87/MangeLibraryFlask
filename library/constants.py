@@ -1,0 +1,11 @@
+API_PREFIX = '/api/v1'
+
+API_PREFIX_BOOKS = f'{API_PREFIX}/books'
+
+API_PREFIX_AUTH = f'{API_PREFIX}/auth'
+
+API_PREFIX_CATEGORY = f'{API_PREFIX}/category'
+
+API_PREFIX_AUTHOR = f'{API_PREFIX}/author'
+
+API_PREFIX_STUDENT = f'{API_PREFIX}/student'
